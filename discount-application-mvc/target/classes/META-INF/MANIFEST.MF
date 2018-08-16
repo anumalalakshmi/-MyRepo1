@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: discount-application-mvc
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lanumala
+Implementation-Vendor-Id: com.cg.capstore
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/discount-application-mvc
+Created-By: Maven Integration for Eclipse
+
